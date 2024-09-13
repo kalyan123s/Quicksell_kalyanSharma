@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    background-color: #fff;
+    height: 3.8rem;
+}
